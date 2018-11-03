@@ -1,0 +1,11 @@
+public class Pelicula{
+  
+  String titulo;
+  String genero;
+  int rating;
+  
+  void play{
+    System.out.println("Reproducr Pelicula")
+  }
+  
+}
